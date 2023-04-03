@@ -1,2 +1,3 @@
-print("hello welcome")
-print("welcometo django")
+print("hello welcome");
+print("welcometo django");
+print("All the best");
